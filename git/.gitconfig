@@ -1,9 +1,9 @@
 [user]
-	name = Jake Wiesler
-	email = jakewiesler@gmail.com
+	name = Dusan Kysel
+	email = Dusan.Kysel@gmail.com
 [core]
 	excludesfile = ~/.gitignore_global
-    editor = nvim
+	editor = nvim
 [pull]
 	ff = only
 [init]
